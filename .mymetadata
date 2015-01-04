@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="couchbase"
+  id="myeclipse.1419916683440"
+  context-root="/couchbase"
+  j2ee-spec="5.0"
+  archive="couchbase.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

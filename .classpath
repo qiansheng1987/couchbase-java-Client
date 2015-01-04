@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/couchbase-client-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/couchbase-client-1.4.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/couchbase-client-1.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/httpcore-nio-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/netty-3.5.5.Final.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/spymemcached-2.11.4.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/spymemcached-2.11.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/help_project/Couchbase-Java-Client-1.4.3/Couchbase-Java-Client-1.4.3/spymemcached-2.11.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-core-io-1.0.2.jar" sourcepath="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/rxjava-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-core-io-1.0.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-core-io-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-java-client-2.0.2.jar" sourcepath="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-java-client-2.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-java-client-2.0.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/couchbase-java-client-2.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/rxjava-1.0.2.jar" sourcepath="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/rxjava-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/rxjava-1.0.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Couchbase-Java-Client-2.0.2/Couchbase-Java-Client-2.0.2/rxjava-1.0.2-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
