@@ -38,12 +38,12 @@ public class BulkOperationsTest {
 	public Bucket bucket;
 	
 	@Before
-	protected void setUp() throws Exception {
+	public void setUp() throws Exception {
 		bucket = ConnectionManager.getInstance().createConnect();
 	}
 
 	@After
-	protected void tearDown() throws Exception {
+	public void tearDown() throws Exception {
 		ConnectionManager.disconnect();
 	}
 	
@@ -72,6 +72,7 @@ public class BulkOperationsTest {
 	}
 	
 	public List<JsonDocument> bulkGet(final Collection<String> ids) {
+		//Observable<String> ob = new Observable<String>;
 		return Observable.from(ids)
 				.flatMap(new Func1<String, Observable<JsonDocument>>() {
 					public Observable<JsonDocument> call(String id) {
